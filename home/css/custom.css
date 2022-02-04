@@ -1,0 +1,24 @@
+.p_img {
+  height: 149px;
+  width: 223px;
+}
+
+.p_detail {
+  height: 581px;
+  width: 498px;
+}
+.inner{
+  overflow: hidden;
+}
+.inner img{
+  transition: 1.2s ;
+}
+.inner:hover img{
+  transform: scale(1.2);
+}
+.p_style{
+  padding-left: 500px;
+}
+.p_home{
+  background:linear-gradient( skyblue black);
+}
